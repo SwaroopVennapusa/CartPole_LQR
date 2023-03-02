@@ -17,7 +17,7 @@ To implement LQR control
 
 - Set the desired state by changing the X coordinate in the below matrix
 
-'self.desired_state = np.matrix([1,0,0,0]).T'
+```self.desired_state = np.matrix([1,0,0,0]).T```
 
 - Tune the Q and R matrix accordingly
   - The diagonal elements in the Q matrix are the penalizing factor for each element of the state vecor.
