@@ -31,4 +31,8 @@ To implement LQR control
   
 # Results
 
-(https://youtu.be/QuxuTJ5_fQQ)
+
+https://user-images.githubusercontent.com/126584953/222477133-a233ef06-157b-4734-bd87-b6885be02e64.mp4
+
+
+
