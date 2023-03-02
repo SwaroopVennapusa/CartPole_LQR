@@ -4,17 +4,13 @@ THis repo is the implementation of LQR Control for https://github.com/linZHank/i
 
 ### Instructions
 
-Clone the repo
-
-`https://github.com/SwaroopVennapusa/CartPole_LQR.git`
-
 Launch the gazebo environment
 
-`roslaunch invpend_control load_invpend.launch`
+```roslaunch invpend_control load_invpend.launch```
 
 To implement LQR control
 
-`rosrun invpend_control cartpole_lqr.py`
+```rosrun invpend_control cartpole_lqr.py```
 
 
 ### Tuning LQR
