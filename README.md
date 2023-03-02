@@ -1,6 +1,6 @@
 # CartPole_LQR
 
-THis repo is the implementation of LQR Control for https://github.com/linZHank/invpend_experiment
+This repo is the implementation of LQR Control for https://github.com/linZHank/invpend_experiment
 
 ### Instructions
 
