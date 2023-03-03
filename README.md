@@ -26,7 +26,7 @@ To implement LQR control
   
 # Plot
 
-![LQR](https://user-images.githubusercontent.com/126584953/222603822-d3db8966-43e1-42d6-9cad-95d56231f3d7.png)
+![LQR1](https://user-images.githubusercontent.com/126584953/222604314-1cc6b146-b1b9-43ac-ba61-d031371f95c3.png)
 
   
 # Results
