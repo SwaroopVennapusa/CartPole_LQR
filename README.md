@@ -24,6 +24,10 @@ To implement LQR control
   - The R matrix is a tuning parameter that determines the relative importance of the control input. Higher value means less aggressive.
   
   
+# Plot
+
+![LQR](https://user-images.githubusercontent.com/126584953/222603822-d3db8966-43e1-42d6-9cad-95d56231f3d7.png)
+
   
 # Results
 
