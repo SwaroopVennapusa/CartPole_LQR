@@ -26,6 +26,8 @@ To implement LQR control
   
 # Plot
 
+- For desired state (1,0,0)
+
 ![LQR1](https://user-images.githubusercontent.com/126584953/222604314-1cc6b146-b1b9-43ac-ba61-d031371f95c3.png)
 
   
